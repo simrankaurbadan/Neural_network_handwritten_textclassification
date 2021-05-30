@@ -15,3 +15,13 @@ You train the model on the training data and when the testing is done on the tra
 Further, the accuracy can be improved using advance networks and models.
 
 The dataset is readily available on internet and does not include any confidential data for clients.
+
+<b>Findings</b>
+
+* Understood the working of neural networks and how the weights are updated as the model is created from scratch.
+
+<b>Privacy Statement</b>
+
+* No Client data or confidential data has been used. The data used for analysis is downloaded from open source repositories.
+* Non of the organizational server and credentials has been used during this project.
+* This is a non-monitorial project only for learning and assignment perspective.
